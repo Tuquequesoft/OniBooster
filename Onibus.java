@@ -3,7 +3,7 @@
  * Definicion de Onibus como objeto
  */
 
-public class Onibus { //Atributos logicos de un Onibus
+public class Onibus { //Atributos logicos de un Onibus, los valores son solo muestras.
     private String Id = "309";
     private String placa;
     private String nombre = "Mariana";
