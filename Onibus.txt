@@ -1,0 +1,22 @@
+/** Definicion de un Onibus (para creacion de la clase)
+* Un Onibus es un medio de transporte publico con las siguientes caracteristicas;
+* ID
+* Placa
+* Nombre
+* Vagas/Asientos/Puestos
+* Horario/Itinerario/Turma
+* Ruta/Linha
+* Chofer/Motorista
+* Coletor
+*/
+
+Las especificaciones inicialmente no levantaran estadisticas ni interactividad, mas esta pensado
+para que luego de un buen levantamiento de datos y colaboracion de los organos publicos respectivos
+se puedan realizar las siguientes tareas:
+
+1) Determinar cantidad de asientos libres
+2) Determinar velocidad del vehiculo
+3) Determinar tiempo de llegada a un determinado punto.
+
+Las informaciones personales o sobre el chofer/motorista y/o el colector no son realmente necesarias,
+pero pudieran servir para algo mas adelante.
